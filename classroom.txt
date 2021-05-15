@@ -1,1 +1,2 @@
-hi this is the first commit
+This is the first line of the file classrrom
+this is the second liine.
